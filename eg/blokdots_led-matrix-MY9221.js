@@ -24,9 +24,9 @@ board.on("ready", function () {
 
   // matrix.colorWave();
 
-  matrix.displayColorAnimation(3, 10);
+  // matrix.displayColorAnimation(0, 3000);
 
-  // matrix.displayString("blokdots", 300, "yellow");
+  matrix.displayString("blokdots", 5000, "yellow");
 
   // matrix.displayNumber(555, 150, "yellow");
 
